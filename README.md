@@ -18,7 +18,7 @@ Hi! I'm **Alnijam bin Mohd Asari**, a student in the `WIF3005 Software Maintenan
 ### 🎮 A Bit About Me
 
 <p align="center">
-  <img src="https://github.com/SoftwareMaintenanceEvolution/tutorial-1-nijam001/blob/main/download.jpeg?raw=true" alt="Hornet from Hollow Knight: Silksong" width="350"/>
+  <img src="https://github.com/SoftwareMaintenanceEvolution/tutorial-1-nijam001/blob/dce479e7f389ef318f3e4fbc184c9448ee49a9ac/download.jpeg" alt="Hornet from Hollow Knight: Silksong" width="350"/>
 </p>
 
 <div align="center">
